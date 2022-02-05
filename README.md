@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Krisdrizzle
-- 🌱 I’m currently learning ...
+
 
 
 <!---
